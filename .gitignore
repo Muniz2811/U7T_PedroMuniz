@@ -1,0 +1,36 @@
+# Build directory
+build/
+
+# Generated files
+*.elf
+*.uf2
+*.bin
+*.hex
+*.dis
+*.map
+*.o
+*.d
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Log files
+*.log
+
+# Environment specific
+.env
+
+# OS specific
+.DS_Store
+.directory
+Thumbs.db
+
+# Dependencies
+pico-sdk/
