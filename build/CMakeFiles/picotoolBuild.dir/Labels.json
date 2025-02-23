@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}

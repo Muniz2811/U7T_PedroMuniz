@@ -1,0 +1,5 @@
+/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/pioasm-install/pioasm/pioasm
+/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

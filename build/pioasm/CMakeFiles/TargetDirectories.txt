@@ -1,0 +1,7 @@
+/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/pioasm/CMakeFiles/pioasm.dir
+/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/pioasm/CMakeFiles/edit_cache.dir
+/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/pioasm/CMakeFiles/list_install_components.dir
+/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/pioasm/CMakeFiles/install.dir
+/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/pioasm/CMakeFiles/install/local.dir
+/home/pedro/Downloads/BitDogLab-C/sistema_seguranca/build/pioasm/CMakeFiles/install/strip.dir
