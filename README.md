@@ -95,4 +95,4 @@ sistema_seguranca/
 ```
 
 ## Autor
-Pedro Muniz
+Pedro Henrique Muniz de Oliveira
