@@ -48,10 +48,10 @@ uint16_t adc_buffer[SAMPLES];
 uint8_t display_buffer[ssd1306_buffer_length];
 
 // Configurações WiFi
-#define WIFI_SSID "VIVOFIBRA-EED1"
-#define WIFI_PASS "vJWRHC9B66"
-#define SERVER_IP "192.168.15.13"  // IP do seu computador na rede local
-#define SERVER_PORT 8080
+#define WIFI_SSID "NomeDoSeuWifi"
+#define WIFI_PASS "SenhaDoSeuWiFi"
+#define SERVER_IP "IPDoSeuComputadorNaRede" 
+#define SERVER_PORT "PortaDoServer"
 
 void sample_mic();
 float mic_power();
